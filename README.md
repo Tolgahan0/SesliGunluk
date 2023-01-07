@@ -8,7 +8,7 @@
   
 ## Loading
 
-benim-projem'i npm kullanarak yükleyin![SCR-20230108-3d9](https://user-images.githubusercontent.com/77614149/211173907-3c6afe14-bade-4106-b55e-1643735ed553.jpeg)
+install my-project using npm![SCR-20230108-3d9](https://user-images.githubusercontent.com/77614149/211173907-3c6afe14-bade-4106-b55e-1643735ed553.jpeg)
 
 
 ```bash 
